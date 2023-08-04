@@ -11,7 +11,7 @@ https://github.com/topics/skeleton-based-action-recognition
 
 
 ### human-pose-estimation-opencv  
-https://github.com/quanhua92/human-pose-estimation-opencv  
+https://github.com/panther711/human-pose-estimation-opencv  
 CPU, OpenCV dnn module,  
 Results: 3-4 fps, performance is just so fine  
 

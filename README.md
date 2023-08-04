@@ -11,7 +11,7 @@
 
 **Updates**: On 2019-10-26, I refactored the code; added more comments; and put all settings into the [config/config.yaml](config/config.yaml) file, including: classes of actions, input and output of each file, OpenPose settings, etc. 
 
-**Project**: This is my final project for EECS-433 Pattern Recognition in Northwestern Univeristy on March 2019. A simpler version where two teammates and I worked on is [here](https://github.com/ChengeYang/Human-Pose-Estimation-Benchmarking-and-Action-Recognition).
+**Project**: This is my final project for EECS-433 Pattern Recognition in Northwestern Univeristy on March 2019. A simpler version where two teammates and I worked on is [here](https://github.com/panther711/action_recognition).
 
 **Warning:** Since I used the 10 fps video and 0.5s-window for training, you must also limit your video fps to be about 10 fps (7~12 fps) if you want to test my pretrained model on your own video or web camera. 
 
